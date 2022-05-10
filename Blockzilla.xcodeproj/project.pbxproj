@@ -4029,6 +4029,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 999.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.Focus.enterprise;
 				PRODUCT_NAME = "Firefox Focus";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = FOCUS;
@@ -4129,6 +4130,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 999.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.Klar.enterprise;
 				PRODUCT_NAME = "Firefox Klar";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = KLAR;
@@ -4287,6 +4289,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 999.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.Focus;
 				PRODUCT_NAME = "Firefox Focus";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "FOCUS DEBUG";
@@ -4389,6 +4392,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 999.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.Focus;
 				PRODUCT_NAME = "Firefox Focus";
 				PROVISIONING_PROFILE = "a0e006fd-308f-466b-8037-c39e3e78188e";
@@ -5282,6 +5286,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 999.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.Klar;
 				PRODUCT_NAME = "Firefox Klar";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "KLAR DEBUG";
@@ -5307,6 +5312,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 999.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.Klar;
 				PRODUCT_NAME = "Firefox Klar";
 				PROVISIONING_PROFILE = "3d0198ab-c4fb-4dd9-8140-927873f44e85";
